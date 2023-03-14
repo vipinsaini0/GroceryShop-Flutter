@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		mX/ZNiUhDQYXWc/aX/67MrVl+IA=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		wDH5D2bRg/hlIvlEWVSBPdmDqDY=
+		yPaowHt9MSVO1PFYYAiq+6heQWI=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,7 +30,23 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		1OkT88f9cjqUttQqD6cWREtTkgM=
+		qi6e9lguiv9o04mbX0KcdbRO7mc=
+		</data>
+		<key>flutter_assets/lib/images/avocado.png</key>
+		<data>
+		yz2hVXJmm1q0USvJvZHtWHlvyj0=
+		</data>
+		<key>flutter_assets/lib/images/banana.png</key>
+		<data>
+		izmIcStyxGw369NQJdQwJcqBdTo=
+		</data>
+		<key>flutter_assets/lib/images/chicken.png</key>
+		<data>
+		yjl0978jCPC6uPVrrr9TFrwNhtY=
+		</data>
+		<key>flutter_assets/lib/images/water.png</key>
+		<data>
+		pgwwRyqV25pSuEBcrZ4dt7UVxJw=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -51,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			dfm1oUAWN3qGrk1Je0JgeUNGs17xFimhvBgO5ty64MU=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -65,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PpxwDKta79EyoX5iSFRt4iNU/WE97quqaG2Nz+pmiAs=
+			JyvcujaKGBmUgRlt84Wqawoz0uBsq4G/E/TO6WSvy54=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -86,7 +102,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D57IGOeRKS3UwoHO1N2ijjGyivTVwHNqKn8zNcbhhzg=
+			XSSiVKctUfiZ4QYlFvBDQVChltJkVCaYkxmCaQFZ+qo=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/avocado.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Pvx+XX9z3k8gyfHYZns/8aa3iBFWZNgfwpv2cduwYI=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/banana.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6KGl0qBnUxfYSPOX0a8ZuQqluZtwTbKFGqnDaVFg6uI=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/chicken.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qHUOhAoBEQ0f146qgFA+Bwj8MLW39FkmtDHU3loka9s=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/water.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z/TmP33yNbjjxtED9Pn5Q7WmRUOah0DRqUIzgGJT9KM=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
