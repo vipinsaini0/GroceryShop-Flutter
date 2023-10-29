@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/async-2.10.0",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -15,7 +15,7 @@
     },
     {
       "name": "characters",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/characters-1.2.1",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/characters-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -27,21 +27,21 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/collection-1.17.0",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/collection-1.17.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "crypto",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/crypto-3.0.2",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "fake_async",
@@ -51,45 +51,39 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/ffi-2.0.1",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/ffi-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "file",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/file-6.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter",
       "rootUri": "file:///Users/vipinsaini/Developer/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/flutter_lints-2.0.1",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/flutter_lints-3.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/vipinsaini/Developer/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "google_fonts",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/google_fonts-2.1.0",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/google_fonts-6.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/http-0.13.5",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/http-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "http_parser",
@@ -99,19 +93,19 @@
     },
     {
       "name": "js",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/js-0.6.5",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/js-0.6.7",
       "packageUri": "lib/",
-      "languageVersion": "2.16"
+      "languageVersion": "2.19"
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/lints-2.0.1",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/lints-3.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/matcher-0.12.13",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/matcher-0.12.15",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -123,7 +117,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/meta-1.8.0",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/meta-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -135,63 +129,57 @@
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path-1.8.2",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path-1.8.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider-2.0.13",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_android-2.0.23",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.2",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_linux",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.9",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.0.6",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.4",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/platform-3.1.0",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/platform-3.1.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "process",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/process-4.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "provider",
@@ -203,7 +191,7 @@
       "name": "sky_engine",
       "rootUri": "file:///Users/vipinsaini/Developer/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "source_span",
@@ -237,15 +225,15 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/test_api-0.4.16",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/test_api-0.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/typed_data-1.3.1",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "vector_math",
@@ -255,15 +243,15 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/win32-3.1.3",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/win32-5.0.9",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/xdg_directories-1.0.0",
+      "rootUri": "file:///Users/vipinsaini/.pub-cache/hosted/pub.dev/xdg_directories-1.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
     },
     {
       "name": "grocery_shop",
@@ -272,7 +260,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-03-07T23:42:49.203477Z",
+  "generated": "2023-10-29T14:27:56.394267Z",
   "generator": "pub",
-  "generatorVersion": "2.19.3"
+  "generatorVersion": "3.0.6"
 }
