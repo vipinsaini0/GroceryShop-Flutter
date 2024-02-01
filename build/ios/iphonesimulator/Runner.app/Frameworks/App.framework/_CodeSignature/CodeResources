@@ -6,11 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		fZ2HgKuThjd/vw7VyDG4TrK4oQ4=
-		</data>
-		<key>flutter_assets/AssetManifest.bin</key>
-		<data>
-		lP1QMw1R+TdpIaeLUsGdAkBiYf8=
+		85iaADE5tc/NukRC+KGdiZaZ0ZA=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
@@ -22,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		X1T889dzV3cG0wf+6NgvHNsSV90=
+		yPaowHt9MSVO1PFYYAiq+6heQWI=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,11 +26,11 @@
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		v838gQ8J3jZ6qbliqEDYbLiFWwY=
+		xbo3iIc8fTnuE5W4XE0VFw6QIBI=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		hkPy3kMtjk2HRPNSEmIUWFKpxnc=
+		qi6e9lguiv9o04mbX0KcdbRO7mc=
 		</data>
 		<key>flutter_assets/lib/images/avocado.png</key>
 		<data>
@@ -58,22 +54,15 @@
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
-		KL+7f3IYR/Y9WDlxxUeDmgGoluc=
+		Z/DhfUUahgFGsthszkW1YubfdU8=
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		wVCDsOQlJhUyvrMuhaM3MeqUNWk=
+		bjcE383nCc8U85vWBdZ80X32NVA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>flutter_assets/AssetManifest.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1ldH5SLptEmuvsU+A3kS0G3tWLy9uv0mg+YJpEiDHec=
-			</data>
-		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
@@ -92,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u+jN7Qh6LLA7N6vuQ3TrzXm2QTGheYRytFPfvjTwoGM=
+			JyvcujaKGBmUgRlt84Wqawoz0uBsq4G/E/TO6WSvy54=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -106,14 +95,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q3MKecK2WuV9poeiw1fLKIYR/n61LLk5ZpHhUj6YMJw=
+			76aJUrz/yLBliHLDcOlVu+tPuICHsFWS91Ovpysst2I=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			itm0oiRtOI5SMApq1e2I7Y7rLmg54mJ/2xplJdLD1Dg=
+			XSSiVKctUfiZ4QYlFvBDQVChltJkVCaYkxmCaQFZ+qo=
 			</data>
 		</dict>
 		<key>flutter_assets/lib/images/avocado.png</key>
@@ -155,14 +144,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v6u8YtYjslOLIIb1rrgcOW817fxVEiBaprKuV+f6FpY=
+			hgGex10sKxTSC95tzLdljzYd3qnntuSb96YXXaU9Nlc=
 			</data>
 		</dict>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pKvVVo/CPIJFzUPS2fhLuWOuiKFXCBKbw9g8gmDjVXE=
+			L69dzlyAJyxdLVGPUFBuUaiyjDwAOUWCUp3TXXm9RjY=
 			</data>
 		</dict>
 	</dict>
